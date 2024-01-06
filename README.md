@@ -1,7 +1,7 @@
-# Boulder Services
+# BouldersList
 Team members: Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
 
-Boulder services is a local business finder that allows residents of Boulder to connect with the best local businesses and services in the community. Users can see all their local businesses and what services they offer, furthermore, they can register with Boulder Services to be able to book the services that these businesses offer, and leave reviews for the businesses they have previously used.
+BouldersList is a local business finder that allows residents of Boulder to connect with the best local businesses and services in the community. Users can see all their local businesses and what services they offer, furthermore, they can register with Boulder Services to be able to book the services that these businesses offer, and leave reviews for the businesses they have previously used.
 
 ## Technology Stack:
 ### Development Tools:
