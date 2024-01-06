@@ -2,7 +2,8 @@
 
 BouldersList is a local business finder app that allows residents of Boulder to connect with the best local businesses and services in the community. Users can find local businesses and what services they offer, they can book services, and leave reviews for the businesses they have previously used. This project was originally created for a final class project with our full team found below, and then continued on by myself (Oscar). The final version of the app turned in for the class by the team and I can be found at this commit here
 
-## Team members: Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
+## Team members: 
+> Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
 
 ## Technology Stack:
 ### Development Tools:
