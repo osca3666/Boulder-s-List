@@ -1,7 +1,9 @@
 # BouldersList
-Team members: Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
 
 BouldersList is a local business finder that allows residents of Boulder to connect with the best local businesses and services in the community. Users can see all their local businesses and what services they offer, furthermore, they can register with Boulder Services to be able to book the services that these businesses offer, and leave reviews for the businesses they have previously used.
+
+
+Team members: Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
 
 ## Technology Stack:
 ### Development Tools:
