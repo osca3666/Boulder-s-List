@@ -8,15 +8,18 @@ Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablo
 ## Demo:
 
 ## Technology Stack:
-### Development Tools:
-* Visual Studio Code (VSCode): Our preferred code editor with extensions for all the languages and frameworks that we used.
-* Git: For version control, used in conjunction with GitHub.
-* GitHub: Hosts our repository and is used for issue tracking and collaborative development.
+
 ### Languages and Frameworks:
 * Embedded Javascript (ejs): For writing frontend logic and user interfaces.
 * Javascript:  For writing frontend and backend logic.
 * Node.js: The runtime environment for executing JavaScript on the server.
 * CSS: To style and layout our pages.
+  
+### Development Tools:
+* Visual Studio Code (VSCode): Our preferred code editor with extensions for all the languages and frameworks that we used.
+* Git: For version control, used in conjunction with GitHub.
+* GitHub: Hosts our repository and is used for issue tracking and collaborative development.
+
 ### Database:
 * PostgreSQL: Our primary database for storing application data.
 ### API:
