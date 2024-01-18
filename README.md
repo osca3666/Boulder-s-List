@@ -4,10 +4,6 @@ Boulder's List is a local services finder app that allows residents of Boulder t
 
 ## Demo:
 
-## Team members: 
-Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
-
-
 ## Technology Stack:
 
 ### Languages and Frameworks:
