@@ -5,6 +5,8 @@ BouldersList is a local business finder app that allows residents of Boulder to 
 ## Team members: 
 Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablonski ○ Oscar Carlek
 
+## Demo:
+
 ## Technology Stack:
 ### Development Tools:
 * Visual Studio Code (VSCode): Our preferred code editor with extensions for all the languages and frameworks that we used.
@@ -18,7 +20,7 @@ Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablo
 ### Database:
 * PostgreSQL: Our primary database for storing application data.
 ### API:
-* RapidAPI: Used to connect with various third-party APIs efficiently and securely.
+* RapidAPI (Overlay of Google Maps API): Used to connect with various third-party APIs efficiently and securely.
 ### Containerization:
 * Docker: Used to containerize our application, ensuring consistency across different development and deployment environments.
 
