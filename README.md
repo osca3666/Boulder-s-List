@@ -22,7 +22,7 @@ Eldin Basic ○ Harald Riisager ○ Dan Gagnier ○ Moses Williams ○ Jon Jablo
 
 ### Database:
 * PostgreSQL: Our primary database for storing application data.
-### API:
+### External API:
 * RapidAPI (Overlay of Google Maps API): Used to connect with various third-party APIs efficiently and securely.
 ### Containerization:
 * Docker: Used to containerize our application, ensuring consistency across different development and deployment environments.
