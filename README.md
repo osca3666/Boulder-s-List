@@ -3,6 +3,7 @@
 Boulder's List is a local services finder app that allows residents of Boulder to connect with the best local businesses in the community. Users can find local businesses, book and track services, advertise their own business, and even leave reviews! This project was created for a final class project with our full team found below, and then continued by myself (Oscar). The final version of this project from the course can be found here.
 
 ## Demo:
+https://github.com/osca3666/Boulder-s-List/assets/70933504/79a204ba-a08c-49a8-9cb0-689a53081c5e
 
 ## Technology Stack:
 
